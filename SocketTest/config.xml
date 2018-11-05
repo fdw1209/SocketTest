@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>2018-11-05 09:10:54</comment>
+<entry key="SSID"/>
+<entry key="ServerPort">8000</entry>
+<entry key="ServerIP">192.168.43.73</entry>
+<entry key="MinTotalAverageRate">40</entry>
+<entry key="NetType">5G</entry>
+<entry key="UpStreamCount">3</entry>
+<entry key="MinDownAverageRate">20</entry>
+<entry key="AfterSecsStat">1</entry>
+<entry key="DurationSeconds">20</entry>
+<entry key="DownStreamCount">3</entry>
+<entry key="DurationMinutes">0</entry>
+<entry key="MinUpAverageRate">20</entry>
+<entry key="Passsword"/>
+</properties>

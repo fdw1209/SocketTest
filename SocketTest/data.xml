@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--将数据从程序输出到XML中！ -->
+<properties> 
+  <item id="000000038B479"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>3.12</upStreamRate>  
+    <downStreamRate>0.55</downStreamRate>  
+    <totalStreamRate>3.67</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-14</testTime> 
+  </item>  
+  <item id="000000038B480"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>24.5</upStreamRate>  
+    <downStreamRate>3.05</downStreamRate>  
+    <totalStreamRate>27.55</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B482"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>18.77</upStreamRate>  
+    <downStreamRate>1.45</downStreamRate>  
+    <totalStreamRate>20.22</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B483"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>15.7</upStreamRate>  
+    <downStreamRate>1.78</downStreamRate>  
+    <totalStreamRate>17.48</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B484"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>21.67</upStreamRate>  
+    <downStreamRate>1.93</downStreamRate>  
+    <totalStreamRate>23.6</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B481"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>22.82</upStreamRate>  
+    <downStreamRate>1.92</downStreamRate>  
+    <totalStreamRate>24.74</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B485"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>18.8</upStreamRate>  
+    <downStreamRate>1.81</downStreamRate>  
+    <totalStreamRate>20.61</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B486"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>0.3</upStreamRate>  
+    <downStreamRate>0.03</downStreamRate>  
+    <totalStreamRate>0.33</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B487"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>15.47</upStreamRate>  
+    <downStreamRate>1.43</downStreamRate>  
+    <totalStreamRate>16.9</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="000000038B488"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>16.75</upStreamRate>  
+    <downStreamRate>5.07</downStreamRate>  
+    <totalStreamRate>21.82</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-04</testTime> 
+  </item>  
+  <item id="111001061196979"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>57.63</upStreamRate>  
+    <downStreamRate>68.13</downStreamRate>  
+    <totalStreamRate>125.76</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-09-10</testTime> 
+  </item>  
+  <item id="000000038B300"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>0.14</upStreamRate>  
+    <downStreamRate>0.02</downStreamRate>  
+    <totalStreamRate>0.16</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-14</testTime> 
+  </item>  
+  <item id="000000038B600"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>0.12</upStreamRate>  
+    <downStreamRate>0.01</downStreamRate>  
+    <totalStreamRate>0.13</totalStreamRate>  
+    <testResult>Fail</testResult>  
+    <testTime>2018-09-14</testTime> 
+  </item>  
+  <item id="000000038B479">
+    <netType>5G</netType>
+    <upStreamRate>12.5</upStreamRate>
+    <downStreamRate>3.78</downStreamRate>
+    <totalStreamRate>16.28</totalStreamRate>
+    <testResult>Fail</testResult>
+    <testTime>2018-09-19</testTime>
+  </item>
+</properties>

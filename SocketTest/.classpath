@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/fdw/Downloads/Compressed/eclipse-jee-mars-2-win32/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.104.2.v20160212-1350.jar" sourcepath="C:/Users/fdw/.sourceattacher/org.eclipse.swt.win32.win32.x86.source_3.104.2.v20160212-1350.jar"/>
+	<classpathentry kind="lib" path="libs/dom4j-1.6.1.jar" sourcepath="C:/Users/fdw/.sourceattacher/dom4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.17.jar" sourcepath="C:/Users/fdw/.sourceattacher/poi-3.17-sources.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
