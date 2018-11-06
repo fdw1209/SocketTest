@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_back"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".SocketActivity">
+
+    <LinearLayout
+        android:layout_width="541sp"
+        android:layout_height="309sp"
+        android:background="@drawable/wifi_sec_back"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100sp"
+            android:text="@string/wifitest"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+            <RadioButton
+                android:id="@+id/RadioButton"
+                android:focusable="true"
+                android:clickable="true"
+                android:enabled="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="2.4G"
+                android:textSize="16sp"/>
+            <RadioButton
+                android:id="@+id/RadioButton1"
+                android:enabled="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:text="5G"
+                android:textSize="16sp"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@android:color/darker_gray"
+            android:clickable="true"
+            android:focusable="true"
+            android:text="@string/connect"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textIP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/textview"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
